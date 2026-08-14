@@ -1,0 +1,35 @@
+{
+  "personal": {
+    "name": "Pramod Kumawat",
+    "email": "example@gmail.com",
+    "phone": "+91XXXXXXXXXX",
+    "location": "Jaipur, Rajasthan",
+    "linkedin": "linkedin.com/in/...",
+    "github": "github.com/..."
+  },
+
+  "education": [
+    {
+      "degree": "MCA",
+      "specialization": "Computer Science",
+      "institution": "ABC College",
+      "university": "University of Rajasthan",
+      "start_date": "2025",
+      "end_date": "Present",
+      "is_current": true,
+      "cgpa": "8.2",
+      "percentage": null
+    },
+    {
+      "degree": "BCA",
+      "specialization": "",
+      "institution": "XYZ College",
+      "university": "XYZ University",
+      "start_date": "2022",
+      "end_date": "2025",
+      "is_current": false,
+      "cgpa": "8.0",
+      "percentage": null
+    }
+  ]
+}
